@@ -19,6 +19,12 @@ A WebShell Scanner, one part of Tarot Plan.
 
 ## Technology
 
-Python3.6
-Flask
+- Python3.6
+- Flask
 
+## Idea
+
+目前WebShell扫描器判断目标的依据
+- 文件后缀，常见的如jsp, php, asp等
+- 关键字，读取文件内容看是否包含敏感词
+- 文件大小，目前市面上常见的webshell会且必须尽量减少代码量，压缩自身体积，size < 500k
