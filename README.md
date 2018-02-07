@@ -1,5 +1,13 @@
 # Magician
-A WebShell scanner, one part of Tarot Plan.
+A WebShell Scanner, one part of Tarot Plan.
+
+主要用于公司内网检测webshell,
+功能包括：
+- 本机扫描
+- 目录指定
+- 远程扫描，指定目标ip或网段
+- 扫描结果收集
+- 报告自动生成
 
 ## Plan
 
