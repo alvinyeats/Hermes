@@ -9,6 +9,10 @@ A WebShell Scanner, one part of Tarot Plan.
 - 扫描结果收集
 - 报告自动生成
 
+## Idea Collection
+
+[Webshell代码检测背后的数学应用](http://www.freebuf.com/articles/4240.html)
+
 ## Plan
 
 第一阶段：
