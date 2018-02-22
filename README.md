@@ -23,7 +23,7 @@ A WebShell Scanner, one part of Tarot Plan.
 
 ## Technology
 
-- Python3.6
+- Python2.7
 - Flask
 
 ## Idea
